@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: movie-booking-service
+  profiles:
+    active: dev
